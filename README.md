@@ -638,59 +638,6 @@ To remove a page:
 2. Select "Logout"
 3. You'll be redirected to login page
 
----
-
-## Frequently Asked Questions
-
-**Q: How many pages can I create?**
-A: Unlimited pages on your account.
-
-**Q: Can I have a custom domain?**
-A: Contact your administrator about custom domain setup.
-
-**Q: Are my pages mobile-friendly?**
-A: Yes, all pages are responsive and mobile-optimized.
-
-**Q: Can I export my content?**
-A: Analytics can be exported. Full content export may require admin assistance.
-
-**Q: How long are analytics kept?**
-A: Analytics are kept indefinitely unless pages are deleted.
-
-**Q: Can I restore deleted pages?**
-A: Soft-deleted pages can be restored by administrators within 30 days.
-
-**Q: Is my data secure?**
-A: Yes, all data is encrypted and securely stored. We never share your information.
-
-**Q: Can I collaborate with others?**
-A: Currently, each account manages their own pages. Team features may be added in future.
-
----
-
-## Glossary
-
-**Analytics:** Statistics about who visits your pages and how they interact with them.
-
-**Dashboard:** Your main control panel showing overview of all pages and stats.
-
-**Draft:** A page that is saved but not publicly visible.
-
-**Published:** A page that is live and publicly accessible via its URL.
-
-**Referrer:** The website or source that brought a visitor to your page.
-
-**Slug:** The URL-friendly version of your page title (e.g., "my-awesome-page").
-
-**Theme:** A pre-designed set of colors that can be applied to your page.
-
-**Unique Visitor:** A person visiting your page, counted once regardless of how many times they visit.
-
-**Version:** A saved snapshot of your page at a specific point in time.
-
----
-
-## Quick Reference
 
 ### Creating a Page (Quick Steps)
 
