@@ -127,7 +127,15 @@ return [
     'providers' => [
         Maatwebsite\Excel\ExcelServiceProvider::class,
 
+        Illuminate\Filesystem\FilesystemServiceProvider::class,
+
     ],
+
+    //     'providers' => [
+    //     // Other providers...
+
+    // ],
+
 
     'aliases' => [
         'Excel' => Maatwebsite\Excel\Facades\Excel::class,
